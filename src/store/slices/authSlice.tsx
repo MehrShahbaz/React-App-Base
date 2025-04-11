@@ -1,5 +1,5 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import { AuthState } from "../../types/sliceTypes/authSliceTypes";
+import { AuthState } from "@/types/sliceTypes/authSliceTypes";
 
 // import {
 //   getAllAuthorService,
